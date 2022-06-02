@@ -18,7 +18,7 @@ function AboutCard() {
             I was always  curious to know about how the web aplication work, so I searched on google 
             and also learned HTML, CSS but I want more knowledge of coding, so, I search a platform 
             where I can get technical knowdledge as well as soft skill so, 
-            After Graduation I join Masai School and persuing MERN Stack  Developer.
+            After Graduation I join Masai School and persuing full Stack  Developer with specialization in MERN stack
           </p>
           {/* <ul>
             <li className="about-activity">
